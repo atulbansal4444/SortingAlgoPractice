@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="" />
+    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgos/Sortings/SelectionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgos/Sortings/SelectionSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/SelectionSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/SelectionSorting.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,9 +82,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RunManager">
     <configuration name="SelectionSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSorting" />
+      <option name="MAIN_CLASS_NAME" value="SelectionSorting.SelectionSorting" />
       <module name="SortingAlgoPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,5 +110,8 @@
       <updated>1660674202998</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
