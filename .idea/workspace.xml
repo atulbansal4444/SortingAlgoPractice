@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Deleted the empty folder">
-      <change afterPath="$PROJECT_DIR$/SortingAlgos/BubbleSort/BubbleSort.java" afterDir="false" />
+    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added Bubble Sort">
+      <change afterPath="$PROJECT_DIR$/SortingAlgos/QuestionOnSorting/Punish_the_Students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgoPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgoPractice.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +96,26 @@
       <recent name="$PROJECT_DIR$/SortingAlgos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.Punish_the_Students">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort.BubbleSort" />
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Punish_the_Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuestionOnSorting.Punish_the_Students" />
+      <module name="SortingAlgoPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuestionOnSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Punish_the_Students" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SelectionSorting" />
       </list>
@@ -155,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660932372838</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Bubble Sort">
+      <created>1661184226545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661184226545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +192,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Selection Sorting." />
     <MESSAGE value="Deleted the empty folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted the empty folder" />
+    <MESSAGE value="Added Bubble Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Bubble Sort" />
   </component>
 </project>
