@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added Sorting question Punish_the_Students">
-      <change afterPath="$PROJECT_DIR$/SortingAlgos/BubbleSort/OptimizedBubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortingAlgos/BubbleSort/RecursiveBubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/QuestionOnSorting/Punish_the_Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/QuestionOnSorting/Punish_the_Students.class" afterDir="false" />
+    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added RecursiveBubbleSort">
+      <change afterPath="$PROJECT_DIR$/SortingAlgos/InsertionSorting/InsertionSorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +95,26 @@
       <recent name="$PROJECT_DIR$/SortingAlgos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecursiveBubbleSort">
+  <component name="RunManager" selected="Application.InsertionSorting">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort.BubbleSort" />
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSorting.InsertionSorting" />
+      <module name="SortingAlgoPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InsertionSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,20 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSorting.SelectionSorting" />
-      <module name="SortingAlgoPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSorting" />
         <item itemvalue="Application.RecursiveBubbleSort" />
         <item itemvalue="Application.OptimizedBubbleSort" />
         <item itemvalue="Application.Punish_the_Students" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.SelectionSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661187036615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Optimized bubble sort">
+      <created>1661270542832</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661270542832</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added RecursiveBubbleSort">
+      <created>1661270558277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661270558277</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +248,8 @@
     <MESSAGE value="Deleted the empty folder" />
     <MESSAGE value="Added Bubble Sort" />
     <MESSAGE value="Added Sorting question Punish_the_Students" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Sorting question Punish_the_Students" />
+    <MESSAGE value="Added Optimized bubble sort" />
+    <MESSAGE value="Added RecursiveBubbleSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added RecursiveBubbleSort" />
   </component>
 </project>
