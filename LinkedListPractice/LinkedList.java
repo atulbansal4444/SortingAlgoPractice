@@ -1,7 +1,6 @@
 package LinkedListPractice;
 
-public class LinkedList
-{
+public class LinkedList<I extends Number> {
     static class Node
     {
         int data;
