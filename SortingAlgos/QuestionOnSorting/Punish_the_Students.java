@@ -1,4 +1,4 @@
-package QuestionOnSorting;
+package SortingAlgos.QuestionOnSorting;
 
 import java.util.Scanner;
 

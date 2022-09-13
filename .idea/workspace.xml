@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added RecursiveBubbleSort">
-      <change afterPath="$PROJECT_DIR$/SortingAlgos/InsertionSorting/InsertionSorting.java" afterDir="false" />
+    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added Insertion Sorting">
+      <change afterPath="$PROJECT_DIR$/LinkedListPractice/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgoPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgoPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgos/BubbleSort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgos/BubbleSort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgos/BubbleSort/OptimizedBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgos/BubbleSort/OptimizedBubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgos/BubbleSort/RecursiveBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgos/BubbleSort/RecursiveBubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgos/InsertionSorting/InsertionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgos/InsertionSorting/InsertionSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgos/QuestionOnSorting/Punish_the_Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgos/QuestionOnSorting/Punish_the_Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgos/SelectionSorting/SelectionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgos/SelectionSorting/SelectionSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/BubbleSort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/BubbleSort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/BubbleSort/OptimizedBubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/BubbleSort/OptimizedBubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/BubbleSort/RecursiveBubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/BubbleSort/RecursiveBubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/InsertionSorting/InsertionSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/InsertionSorting/InsertionSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/QuestionOnSorting/Punish_the_Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/QuestionOnSorting/Punish_the_Students.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/SelectionSorting/SelectionSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/SelectionSorting/SelectionSorting.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +33,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="insertion_sorting" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -92,16 +113,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/SortingAlgos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertionSorting">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSort.BubbleSort" />
+  <component name="RunManager" selected="Application.LinkedList">
+    <configuration name="InsertionSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSorting.InsertionSorting" />
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BubbleSort.*" />
+          <option name="PATTERN" value="InsertionSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertionSorting.InsertionSorting" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListPractice.LinkedList" />
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InsertionSorting.*" />
+          <option name="PATTERN" value="LinkedListPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.InsertionSorting" />
         <item itemvalue="Application.RecursiveBubbleSort" />
         <item itemvalue="Application.OptimizedBubbleSort" />
         <item itemvalue="Application.Punish_the_Students" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +264,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Selection Sorting." />

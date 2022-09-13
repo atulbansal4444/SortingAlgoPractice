@@ -1,4 +1,4 @@
-package InsertionSorting;
+package SortingAlgos.InsertionSorting;
 
 import java.util.Arrays;
 import java.util.Scanner;

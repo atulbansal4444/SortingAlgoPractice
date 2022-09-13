@@ -1,4 +1,4 @@
-package SelectionSorting;
+package SortingAlgos.SelectionSorting;
 
 import java.util.Arrays;
 import java.util.Scanner;
