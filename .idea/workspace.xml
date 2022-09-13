@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added comments">
-      <change afterPath="$PROJECT_DIR$/LinkedListPractice/MiddleElementInLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added loop detection in linked list." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +275,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663097796202</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added middle element of linked list">
+      <created>1663099241733</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663099241733</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added loop detection in linked list.">
+      <created>1663099725109</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663099725109</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +315,8 @@
     <MESSAGE value="Added linked list insertion at end and start." />
     <MESSAGE value="Added linked list deletion" />
     <MESSAGE value="Added comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added comments" />
+    <MESSAGE value="Added middle element of linked list" />
+    <MESSAGE value="Added loop detection in linked list." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added loop detection in linked list." />
   </component>
 </project>
