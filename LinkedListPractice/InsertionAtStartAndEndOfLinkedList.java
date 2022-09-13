@@ -38,6 +38,7 @@ public class InsertionAtStartAndEndOfLinkedList
         return ref;
     }
 
+    //Function to delete a node in the linked list.
     static Node deletionOfNode(Node head, int x)
     {
         Node ref = head.next;
@@ -67,10 +68,13 @@ public class InsertionAtStartAndEndOfLinkedList
         Node ref = head.next;
         ref.next = new Node(20);
 
+        // add node at beginning
         head = insertAtBeginning(head, 0);
 
+        // add node at the end
         head = insertAtEnd(head, 40);
 
+        // delete node
         head = deletionOfNode(head, 40);
 
         while (head != null)
