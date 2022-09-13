@@ -1,4 +1,4 @@
-package LinkedListPractice;
+package LinkedListPractice.Questions;
 
 import java.util.Objects;
 

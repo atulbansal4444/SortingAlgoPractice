@@ -1,4 +1,4 @@
-package LinkedListPractice;
+package LinkedListPractice.Questions;
 
 public class LoopDetection
 {
