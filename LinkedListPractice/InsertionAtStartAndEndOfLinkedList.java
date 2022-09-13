@@ -40,12 +40,13 @@ public class InsertionAtStartAndEndOfLinkedList
 
     static Node deletionOfNode(Node head, int x)
     {
-        if (head.data == x)
-        {
-            return head.next;
-        }
         Node ref = head.next;
         Node prev = head;
+
+        if (head.data == x)
+        {
+            head = head.next;
+        }
 
         while(ref != null)
         {
@@ -70,7 +71,7 @@ public class InsertionAtStartAndEndOfLinkedList
 
         head = insertAtEnd(head, 40);
 
-        head = deletionOfNode(head, 10);
+        head = deletionOfNode(head, 40);
 
         while (head != null)
         {

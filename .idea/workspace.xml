@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added linked list insertion at end and start.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added linked list deletion">
       <change beforePath="$PROJECT_DIR$/LinkedListPractice/InsertionAtStartAndEndOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListPractice/InsertionAtStartAndEndOfLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SortingAlgoPractice/LinkedListPractice/InsertionAtStartAndEndOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortingAlgoPractice/LinkedListPractice/InsertionAtStartAndEndOfLinkedList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663096339240</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added linked list deletion">
+      <created>1663097418322</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663097418322</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +287,7 @@
     <MESSAGE value="Added RecursiveBubbleSort" />
     <MESSAGE value="Added linked list practice" />
     <MESSAGE value="Added linked list insertion at end and start." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added linked list insertion at end and start." />
+    <MESSAGE value="Added linked list deletion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added linked list deletion" />
   </component>
 </project>
