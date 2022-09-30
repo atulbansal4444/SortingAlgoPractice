@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Added loop detection in linked list." />
+    <list default="true" id="a07336e1-4f11-465c-836b-3b5bc1231a62" name="Changes" comment="Refactoring code">
+      <change afterPath="$PROJECT_DIR$/LinkedListPractice/Questions/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +108,7 @@
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListPractice.*" />
+          <option name="PATTERN" value="LinkedListPractice.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,7 +121,7 @@
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListPractice.*" />
+          <option name="PATTERN" value="LinkedListPractice.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,7 +147,7 @@
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListPractice.*" />
+          <option name="PATTERN" value="LinkedListPractice.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +156,11 @@
       </method>
     </configuration>
     <configuration name="MiddleElementInLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListPractice.MiddleElementInLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListPractice.Questions.MiddleElementInLinkedList" />
       <module name="SortingAlgoPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListPractice.*" />
+          <option name="PATTERN" value="LinkedListPractice.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663099725109</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added loop detection in linked list.">
+      <created>1663099759224</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663099759224</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Refactoring code">
+      <created>1663099837046</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663099837046</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,6 +334,7 @@
     <MESSAGE value="Added comments" />
     <MESSAGE value="Added middle element of linked list" />
     <MESSAGE value="Added loop detection in linked list." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added loop detection in linked list." />
+    <MESSAGE value="Refactoring code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring code" />
   </component>
 </project>
